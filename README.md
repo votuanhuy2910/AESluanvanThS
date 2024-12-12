@@ -1,6 +1,6 @@
-# Automated Essay Scoring
+# Automated Essay Scoring - __Đề tài Đề án tốt nghiệp__ `Ứng dụng mô hình ngôn ngữ lớn vào đánh giá bài thi tự luận ở bậc đại học`
 
-## Tiêu chí chấm điểm
+## Tiêu chí chấm điểm (Thang điểm 10)
 ## *1. Nội dung (4.5 điểm)*
 - Đáp ứng yêu cầu đề bài (1.5 điểm)
 - Trả lời đúng trọng tâm, không lạc đề.
