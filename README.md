@@ -2,6 +2,9 @@
 ### __Đề tài Đề án tốt nghiệp:__
 ### - `Ứng dụng mô hình ngôn ngữ lớn vào đánh giá bài thi tự luận ở bậc đại học`
 
+### __Chuyên đề tốt nghiệp:__
+### - `Khảo sát mô hình ngôn ngữ lớn trong nghiệp vụ chấm bài thi tự luận ở bậc đại học`
+
 ## Tiêu chí chấm điểm (Thang điểm 10)
 ## *1. Nội dung (4.5 điểm)*
 - Đáp ứng yêu cầu đề bài (1.5 điểm)
