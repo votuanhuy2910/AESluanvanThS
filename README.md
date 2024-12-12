@@ -4,6 +4,10 @@
 
 ### __Chuyên đề tốt nghiệp:__
 ### - `Khảo sát mô hình ngôn ngữ lớn trong nghiệp vụ chấm bài thi tự luận ở bậc đại học`
+## *Gồm 3 nội dung lớn:*
+### *1. Nghiên cứu cơ sở lý thuyết về Mô hình ngôn ngữ lớn và mô hình ngôn ngữ phù hợp cho Tiếng Việt vào việc đánh giá bài thi tự luận ở bậc đại học.*
+### *2. Nghiên cứu các công nghệ hỗ trợ cho bài toán ứng dụng chấm bài thi tự luận.*
+### *3. Xây dựng mô hình phù hợp, tối ưu hóa thuật toán, cải thiện hiệu suất mô hình.*
 
 ## Tiêu chí chấm điểm (Thang điểm 10)
 ## *1. Nội dung (4.5 điểm)*
