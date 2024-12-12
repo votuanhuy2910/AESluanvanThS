@@ -7,7 +7,7 @@
 - Kiến thức chuyên môn (2 điểm)
 - Thể hiện hiểu biết sâu sắc, chính xác về nội dung.
 - Tính sáng tạo (1 điểm)
-- `**Có ý tưởng mới hoặc cách tiếp cận khác biệt.**`
+- ####`Có ý tưởng mới hoặc cách tiếp cận khác biệt.`
 
 ## *2. Tổ chức và cấu trúc (2 điểm)*
 - Cấu trúc tổng thể (1.2 điểm)
