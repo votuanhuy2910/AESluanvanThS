@@ -1,6 +1,6 @@
 # Automated Essay Scoring
 
-`Tiêu chí chấm điểm`
+## Tiêu chí chấm điểm
 ## *1. Nội dung (4.5 điểm)*
 - Đáp ứng yêu cầu đề bài (1.5 điểm)
 - Trả lời đúng trọng tâm, không lạc đề.
